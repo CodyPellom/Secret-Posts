@@ -1,0 +1,2 @@
+class PostslsController < ApplicationController
+end
